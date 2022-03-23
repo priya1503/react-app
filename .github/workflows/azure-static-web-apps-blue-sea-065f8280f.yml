@@ -30,7 +30,7 @@ jobs:
           app_location: "/api" # App source code path
           api_location: "" # Api source code path - optional
           output_location: "build" # Built app content directory - optional
-          ##app_build_command: 'npm run docs:build'
+          app_build_command: 'npm run docs:build'
 
           ###### End of Repository/Build Configurations ######
 
